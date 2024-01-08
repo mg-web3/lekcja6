@@ -4,7 +4,7 @@ Lekcja 6 kursu Programowanie Web3 - Fundamenty Blockchain i Solidity.
 
 Zdecentralizowane Finanse.
 
-![DeFi](../6-defi.png)
+![DeFi](6-defi.png)
 
 ## Instalacja i konfiguracja
 
